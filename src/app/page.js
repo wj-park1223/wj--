@@ -8,7 +8,8 @@ export default function home() {
           <Link href="/">게임소식</Link>
           <Link href="/">게임할인</Link>
       </div>
-      <div className="bar2">       
+      <div className="bar2">
+      <img src="/sky box.png"></img>        
           <Link href="/">신작게임</Link>
           <Link href="/">인기게임</Link>
       </div>
